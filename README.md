@@ -2,5 +2,5 @@
 
 Content index:
 
- * [Drupal](/drupal/README.md)
+ * [Drupal](drupal/README.md)
  
