@@ -1,6 +1,6 @@
 # Installation
 
-## Instalation with Docksal
+## Instalation with Docksal on local machine
 
 Prerequisites:
 
