@@ -10,8 +10,7 @@ Prerequisites:
 Create project with Docksal:
 
   ```bash
-  # Go to projects directory and make the directory for new project.
-  $ mkdir project_name
-  $ cd project_name
-  $ fin project create  # And follow onscreen instructions.
+  # Go to projects directory run command.
+  $ fin project create
+  # And follow onscreen instructions.
   ```
