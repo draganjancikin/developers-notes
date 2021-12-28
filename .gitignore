@@ -1,3 +1,6 @@
 /temporary/
 /ed-doc/
 /_private/
+
+# Ignore IDE's files.
+.idea
