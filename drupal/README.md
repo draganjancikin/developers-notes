@@ -3,7 +3,15 @@
 
 On-line documentation: <https://www.drupal.org/documentation>
 
-Content index:
+## Prerequisites
+
+Basic knowledge about:
+* HTML
+* CSS
+* PHP
+* Object Oriented Programing
+
+## Content index
 
 * [Installation](installation.md)
 * [Module installation](module-installation.md)
