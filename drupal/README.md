@@ -16,3 +16,4 @@ Basic knowledge about:
 * [Installation](installation.md)
 * [Module installation](module-installation.md)
 * [Upgrade D8 to D9](upgrade-d8-to-d9.md)
+* [Tips & Tricks](tips-and-tricks.md)
